@@ -9,7 +9,7 @@ I have used MobilenetV2 for the purpose of Transfer Learning because it is less 
 The data for this repository is downloaded from https://www.kaggle.com/datasets/emmarex/plantdisease. 
 
 
-###Overview:
+### Overview:
 
 
 ### Results:
